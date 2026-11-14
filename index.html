@@ -1,0 +1,206 @@
+<!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><title>首页 | GEKICHUMAI-NET 使用指南</title><meta name="robots" content="noindex,nofollow"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=400">
+  <meta name="format-detection" content="telephone=no, email=no, address=no">
+  <meta name="description" content="首页 | GEKICHUMAI-NET 使用指南">
+  <meta name="keywords" content="音击,CHUNITHM,舞萌 DX,NET,使用指南">
+  <script src="./lib/lib.min.js"></script>
+  <link rel="stylesheet" href="./lib/site.css?v=fb0fb4b199a5">
+  <link rel="stylesheet" href="root/root.css">
+  <style>[v-cloak]{display:none}</style><link rel="stylesheet" href="/lib/guide-editor.css?v=e2f3ce369e41"><script src="/lib/navigation.js?v=147b547d75be"></script><script src="/lib/guide-markdown.js?v=d6bbcc00906f"></script></head> <body> <script type="text/x-template" id="site-navigation-template"><div class="Gnavi" :data-page="PAGENAME">
+  <div v-for="item in navi">
+    <ul v-if="item.name === 'navi1'" class="Gnavi-navi1">
+      <li v-for="link in item.links">
+        <a :href="!link.target ? ROOT + '/#' + link.href : link.href" :target="link.target">
+          <span>{{link.text}}</span>
+        </a>
+      </li>
+    </ul>
+    <ul v-if="item.name === 'navi2'" class="Gnavi-navi2">
+      <li v-for="link in item.links">
+        <a :href="!link.target ? ROOT + '/' + link.href : link.href"
+           :target="link.target"
+           :aria-current="link.current ? 'page' : null">
+          <span>{{link.text}}</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+</script> <script type="text/x-template" id="site-footer-template"><div class=Footer>
+<div><el-local-link ref=pageTop goto=pageTop v-text="&quot;顶部&quot;" class=pageTop /></div>
+<netgnavi/>
+<div class=Footer-banner>
+<a href=https://ongeki-net.com/ target=_blank><el-asset site src=bnr/ongeki_net_bnr.png alt="翁杰基NEW官方网站"></el-asset></a>
+<a href=https://new.chunithm-net.com/ target=_blank><el-asset site src=bnr/chunithm_net_bnr.png alt="春联网官方网站"></el-asset></a>
+<a href=https://maimaidx.jp/maimai-mobile/ target=_blank><el-asset site src=bnr/maimai_net_bnr.png alt="麦麦德拉克斯网官方网站"></el-asset></a>
+</div>
+<div class="Footer-box">
+  <div class="Footer-copyright"><small>EVIL LEAKER 2026</small></div>
+</div>
+</div>
+</script> <script type="text/x-template" id="home-registration-template"><section id="registration" class="Registration">
+  <netbgshirokuro>
+    <h1>使用方法</h1>
+
+    <div class="Registration-inner">
+      <!-- 第 1 步 -->
+      <div class="Registration-box no1" data-step="1">
+        <div class="Registration-number"><span>1</span></div>
+        <div class="Registration-maintxt">首先注册EVIL LEAKER ID！</div>
+        <div class="Registration-btnBox">
+          <netbtnpink
+            url="https://new.am-all.com.cn/register/"
+            class="brank sizeL"
+            target="_blank"
+            text="注册EVIL LEAKER ID"
+          />
+        </div>
+      </div>
+
+      <div class="Registration-box no1-2">
+        <div class="Registration-maintxt">如果您有EVIL LEAKER ID<span class="l_Magin"></span></div>
+        <div class="Registration-number"><span>2</span></div>
+      </div>
+
+      <!-- 在这里填写第 2 步：修改下面的标题、示意图和按钮。 -->
+      <div class="Registration-box no2" data-step="2">
+        <div class="Registration-number"><span>2</span></div>
+        <div class="Registration-maintxt">激活ALL.NET利用权！</div>
+        <el-asset
+          src="./register_step2.png"
+          adap
+          alt="ONGEKI NET 利用权激活与游戏启动界面。"
+        />
+        <div class="Registration-btnBox">
+          <netbtnpink
+            url="./activate/"
+            class="arrow"
+            text="如何激活ALL.NET利用权"
+          />
+        </div>
+      </div>
+      <!-- 第 2 步结束 -->
+
+      <!-- 第 3 步 -->
+      <div class="Registration-box no3" data-step="3">
+        <div class="Registration-number"><span>3</span></div>
+        <div class="Registration-maintxt">在主站ALL.NET服务页上，<br>将您玩游戏所用的Aime卡片绑定到您的EVIL LEAKER ID！</div>
+        <el-asset
+          src="./register_step4-1.png"
+          adap
+          alt="登录主站，在 ALL.NET 服务页输入 ACCESS CODE 绑定 Aime 卡。"
+        />
+        <div class="Registration-txt"></div>
+        <div class="Registration-btnBox">
+          <netbtnpink
+            url="https://new.am-all.com.cn/allnet/"
+            class="brank sizeL"
+            target="_blank"
+            text="在“ALL.NET服务”页上绑定Aime卡片"
+          />
+        </div>
+        <div class="Registration-bgBlackStripe">
+          <h2>■ACCESS CODE的确认方法</h2>
+          <div class="Registration-txt">[关于Aime卡]<br></div>
+          <el-asset
+            src="./register_step4-2.png"
+            adap
+            alt="如何查看访问代码[对于Aime卡]"
+          />
+        </div>
+      </div>
+
+      <!-- 第 4 步 -->
+      <div class="Registration-box no2" data-step="4">
+        <div class="Registration-number"><span>4</span></div>
+        <div class="Registration-maintxt">在ALL.NET页面购买Performai会员使用权！</div>
+        <el-asset
+          src="./register_step3.png"
+          adap
+          alt="登录主站，在 ALL.NET 页面购买 Performai 会员使用权。"
+        />
+        <div class="Registration-btnBox">
+          <netbtnpink
+            url="https://new.am-all.com.cn/allnet/"
+            class="brank"
+            target="_blank"
+            text="点击此处购买会员使用权！"
+          />
+        </div>
+        <div class="Registration-btnBox">
+          <netbtnpink
+            url="./use-right/"
+            class="arrow"
+            text="了解Performai会员"
+          />
+        </div>
+      </div>
+
+      <!-- 第 5 步 -->
+      <div class="Registration-box no4" data-step="5">
+        <div class="Registration-number"><span>5</span></div>
+        <div class="Registration-maintxt">使用EVIL LEAKER ID登录ONGEKI NET、CHUNITHM-NET和maimaiDX NET！</div>
+
+        <div class="Registration-bgBlackStripe">
+          <p>ONGEKI NET</p>
+          <div class="Registration-loginDiagram" :data-device="MQDEVICE">
+            <el-asset
+              src="./register_step5.png"
+              adap
+              alt="登录 ONGEKI NET，选择第 3 步绑定的 Aime。"
+            />
+          </div>
+          <div class="Registration-btnBox">
+            <netbtnpink
+              url="https://ongeki-net.cn/ongeki-mobile/"
+              class="brank"
+              target="_blank"
+              text="转到“ONGEKI-NET”登录页"
+            />
+          </div>
+        </div>
+
+        <div class="Registration-bgBlackStripe">
+          <p>CHUNITHM-NET</p>
+          <div class="Registration-loginDiagram" :data-device="MQDEVICE">
+            <el-asset
+              src="./register_step6.png"
+              adap
+              alt="登录 CHUNITHM-NET，选择第 3 步绑定的 Aime。"
+            />
+          </div>
+          <div class="Registration-btnBox">
+            <netbtnpink
+              url="#"
+              class="brank"
+              target="_blank"
+              text="尚未开放"
+            />
+          </div>
+        </div>
+
+        <div class="Registration-bgBlackStripe">
+          <p>maimaiDX-NET</p>
+          <div class="Registration-loginDiagram" :data-device="MQDEVICE">
+            <el-asset
+              src="./register_step7.png"
+              adap
+              alt="登录 maimaiDX NET，选择第 3 步绑定的 Aime。"
+            />
+          </div>
+          <div class="Registration-btnBox">
+            <netbtnpink
+              url="https://maimaidx.jp/maimai-mobile/"
+              class="brank"
+              target="_blank"
+              text="尚未开放"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </netbgshirokuro>
+</section>
+</script><div id="app" v-cloak data-depth="0" data-page="root"></div>
+  <script src="./lib/site.js?v=6880af471fee"></script>
+  <script src="root/root.js" async></script> </body></html>

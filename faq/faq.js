@@ -1,0 +1,2 @@
+/*! ©SEGA */
+'use strict';!function(n){var o={};function r(t){if(o[t])return o[t].exports;var e=o[t]={exports:{},id:t,loaded:!1};return n[t].call(e.exports,e,e.exports,r),e.loaded=!0,e.exports}r.m=n,r.c=o,r.p='',r(0)}([function(t,e,n){Zero.init({tags:[],data:{},computed:{},methods:{},mounted:function(){},template:n(1)})},function(t,e){t.exports='<netheader></netheader> <div> <netmaincontents> <el-markdown url=text.md flavour=Md /> </netmaincontents> </div> <netfooter></netfooter> '}]);
