@@ -52,11 +52,11 @@
 
 1. **<a href="https://next.nageki-net.com/" target="_blank" rel="noopener noreferrer">登录Nageki-Net</a>**
 
-2. 侧边栏点击 **我的账号**
+2. 侧边栏点击 **`我的账号`**
 
-3. 选择 **数据导出**
+3. 选择 **`数据导出`**
 
-4. 点击 **导出 ONGEKI 数据** 下载存档文件
+4. 点击 **`导出 ONGEKI 数据`** 下载存档文件
 
 ---
 
@@ -64,7 +64,7 @@
 
 #### ONGEKI：
 
-1. **<a href="https://new.am-all.com.cn/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
+1. **<a href="https://crew.evilleaker.com/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
 	
 2. 在左侧侧边栏进入 **`ALL.NET服务`** 页面
 

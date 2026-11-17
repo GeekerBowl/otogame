@@ -13,7 +13,7 @@
 ### WEB版
 
 1. 确保您已激活ONGEKI利用权，并且已成功游玩保存一局游戏和绑定Aime卡片
-2. **<a href="https://new.am-all.com.cn/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
+2. **<a href="https://crew.evilleaker.com/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
 3. 侧边栏进入 **`CARD MAKER`** 页面
 4. 点击画面开始CARD MAKER
 
@@ -111,6 +111,10 @@
 #### 如何刷卡
 
 - 在标题界面点击 **`カードをかざす`** 后根据提示进行刷卡。
+
+> [!CAUTION]
+> 自签名时个人签名方式可能无法启动iPhone的NFC功能，请使用支持NFC权限的非个人签名。<br>
+> iPad无法启用NFC刷卡。
 
 ---
 

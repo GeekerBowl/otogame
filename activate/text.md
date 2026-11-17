@@ -4,9 +4,30 @@
 
 ## 目录
 
+- **[激活特典](#activate-bonus)**
 - **[音游窝等公共场所激活方法](#open-activation)**
 - **[个人家用激活方法](#home-activation)**
 - **[配置入网](#install-network)**
+
+<a id="activate-bonus"></a>
+## 激活特典
+
+> [!NOTE]
+> 激活后积分与CREDIT自动发放至账户内，游戏道具则发放NET兑换码至账户。
+
+### 店铺加入特典
+
+- 积分 600点
+- CREDIT 300点
+
+---
+
+### 家用加入特典
+
+- 积分 500点
+- CREDIT 200点
+
+---
 
 ## 开始之前
 
@@ -109,7 +130,7 @@
 
 1. 下载ONGEKI环境检测工具进行HDD接入适配检测
 
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="https://pan.baidu.com/s/1Scncrn9oy3PbZ4z3xCrLgA?pwd=ogkt" target="_blank" rel="noopener noreferrer">
   <img src="/root/assets/dlenvapp.png"
 	alt="下载windows app"
     style="margin-left: 0; margin-right: auto;">
@@ -161,7 +182,7 @@
 
 ### 下载并安装入网数据包
 
-- **<a href="https://new.am-all.com.cn/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
+- **<a href="https://crew.evilleaker.com/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
 	
 - 在左侧侧边栏进入 **`ALL.NET服务`** 页面
 	

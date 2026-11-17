@@ -10,7 +10,7 @@ ONGEKI LINK为店内对战中继服务，使用此服务通过服务器您可以
 
 1. 确保您已激活ONGEKI利用权
 2. 游戏最低版本必须为 **`Re:Fresh Ver 1.60-A`** ，不同数据版本理论上无联机限制，但您无法接收到自己没有的歌曲的房间信息。
-3. **<a href="https://new.am-all.com.cn/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
+3. **<a href="https://crew.evilleaker.com/" target="_blank" rel="noopener noreferrer">登录EVIL LEAKER主站</a>**
 4. 侧边栏进入 **`ALL.NET服务`** 页面
 5. 找到 **`ONGEKI Link`** 卡片，点击打开
 6. 点击 **`下载LINK安装包`**
