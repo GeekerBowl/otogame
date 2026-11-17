@@ -6,7 +6,7 @@
 
 | 内容 | 推荐编辑的源文件 |
 | --- | --- |
-| 使用条款 | `sites/net-guide-reference/public/agreement/text.md` |
+| 服务说明 | `sites/net-guide-reference/public/info/text.md` |
 | 激活 ALL.NET 利用权 | `sites/net-guide-reference/public/activate/text.md` |
 | 使用权说明 | `sites/net-guide-reference/public/use-right/text.md` |
 | 本手册 | `sites/net-guide-reference/public/markdown-guide/text.md` |
@@ -289,6 +289,6 @@ npm run build
 python -m http.server --bind 127.0.0.1 --directory "C:/HDD/System/artemis/deliver/ALLNET-Guide-reference-20261110" 4322
 ```
 
-然后打开 [本地首页](/)、[激活指南](/activate/) 或[使用条款](/agreement/)。若旧样式仍被缓存，可按 `Ctrl+F5` 强制刷新。
+然后打开 [本地首页](/)、[激活指南](/activate/) 或[服务说明](/info/)。若旧样式仍被缓存，可按 `Ctrl+F5` 强制刷新。
 
 需要边编辑边预览时，在源项目目录运行 `npm run dev -- --host 127.0.0.1 --port 4323`，使用 4323 页面；它直接读取源文件，不替代 4322 的构建结果。
