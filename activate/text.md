@@ -140,7 +140,10 @@
 
 - 选择ONGEKI HDD的 **`package`** 文件夹
 
-- 截图检测结果发给网站管理员(通过则由管理员手动配发激活码，不通过则不能获取激活码)
+- 请将截图检测结果与检测工具同目录下的log文件发送到管理员邮箱：399090790@qq.com中(QQ临时对话无法发送文件)
+
+> [!NOTE]
+> 环境检测工具出具的结果仅供参考，不能作为申请激活码的唯一证明，如果检测结果出现 **`CHK`** 与 **`BAD`** 则需要进行人工复核。
 
 2. **<a href="https://ongeki-net.cn/ongeki-mobile/" target="_blank" rel="noopener noreferrer">登录ONGEKI-NET</a>**
 
