@@ -100,7 +100,7 @@
 
 **下载并安装ipa文件到你的 iPhone 或 iPad 设备中来进行抽卡**
 
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="https://pan.baidu.com/s/1I9aCf8I5sQSeMBGR4Ty5rg?pwd=cdmk" target="_blank" rel="noopener noreferrer">
   <img src="/root/assets/dlipa.png"
 	alt="下载IPA"
     style="margin-left: 0; margin-right: auto;">

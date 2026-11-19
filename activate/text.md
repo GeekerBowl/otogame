@@ -130,7 +130,7 @@
 
 1. 下载ONGEKI环境检测工具进行HDD接入适配检测
 
-<a href="https://pan.baidu.com/s/1Scncrn9oy3PbZ4z3xCrLgA?pwd=ogkt" target="_blank" rel="noopener noreferrer">
+<a href="https://pan.baidu.com/s/1x44hIyX85y7qkpFWbV5snQ?pwd=ogkt" target="_blank" rel="noopener noreferrer">
   <img src="/root/assets/dlenvapp.png"
 	alt="下载windows app"
     style="margin-left: 0; margin-right: auto;">
